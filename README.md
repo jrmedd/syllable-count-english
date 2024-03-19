@@ -1,5 +1,7 @@
 # syllable-count-english
 
+**Incredibly niche fork** of this repo to test loading this into a PWA in the frontend (taking out the need to read files etc.)
+
 Accurate syllable counter for English text.
 
 ## Motivation
